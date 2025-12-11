@@ -7,8 +7,23 @@ This project demonstrates skills in Power BI, DAX, data modeling, data visualiza
 
 ## 📁 Dataset Summary
 
-Total Records: 1,470
+- Total Records: 1,470
 
-Features: 35+
+- Features: 35+
 
-Target Column: Attrition (Yes/No)
+- Target Column: Attrition (Yes/No)
+
+## Key Data Fields
+
+- Demographics: Age, Gender, Marital Status
+
+- Job Details: Department, Job Role, Years at Company
+
+- Engagement: OverTime, Business Travel
+
+- Satisfaction Scores
+
+- Performance Rating
+
+- Compensation: Monthly Income, Hourly Rate
+  
