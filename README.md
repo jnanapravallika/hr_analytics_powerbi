@@ -8,5 +8,7 @@ This project demonstrates skills in Power BI, DAX, data modeling, data visualiza
 ## 📁 Dataset Summary
 
 Total Records: 1,470
+
 Features: 35+
+
 Target Column: Attrition (Yes/No)
