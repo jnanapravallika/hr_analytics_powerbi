@@ -99,9 +99,13 @@ Includes:
 
   ## 📂 Project Structure
 HR-Attrition-Analysis/
+
 │── data/
+
 │── powerbi/
+
 │── report.pdf
+
 └── README.md
 
 ## 👩‍💻 Author
