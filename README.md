@@ -1,5 +1,6 @@
-HR Employee Attrition Analysis – Power BI Project
-📌 Project Overview
+#HR Employee Attrition Analysis – Power BI Project
+
+##📌 Project Overview
 
 This project analyzes employee attrition to understand why employees leave and identify at-risk workforce segments.
 Using demographic, job-related, engagement, satisfaction, and performance data, the dashboard helps HR teams create effective retention strategies.
